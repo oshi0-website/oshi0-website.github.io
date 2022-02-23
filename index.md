@@ -11,3 +11,9 @@
 # MILESTONES
 
 # TEAM MEMBERS
+***
+* [Matthew Kirts](https://mkirts.github.io/)
+  * Contact: mkirts@hawaii.edu
+
+* [Shinya Saito](https://saitoshin45.web.fc2.com/index.html)
+  * Contact: saitoshin2145@gmail.com
