@@ -1,6 +1,13 @@
-<h1>Project Website For Oshio Website</h1>
+<h1>Project Website For Upgrades To</h1>
 
-<h3>Team Members</h3>
-<ul>
-  <li></li>
-  </ul>
+# TABLE OF CONTENTS 
+***
+* [OVERVIEW](#overview)
+* [MILESTONES](#milestones)
+* [TEAM MEMBERS](#team-members)
+
+# OVERVIEW
+
+# MILESTONES
+
+# TEAM MEMBERS
