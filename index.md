@@ -16,4 +16,6 @@
   * Contact: mkirts@hawaii.edu
 
 * [Shinya Saito](https://saitoshin45.web.fc2.com/index.html)
+  * B.S. in Computer Science and Mathematics 
   * Contact: saitoshin2145@gmail.com
+  * 
