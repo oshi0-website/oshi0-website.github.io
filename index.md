@@ -17,5 +17,5 @@
 
 * [Shinya Saito](https://saitoshin45.web.fc2.com/index.html)
   * B.S. in Computer Science and Mathematics 
-  * Contact: saitoshin2145@gmail.com
+  * Contact: <u><a href = "mailto:saitoshin2145@gmail.com">saitoshin2145@gmail.com</a></u>
   * 
