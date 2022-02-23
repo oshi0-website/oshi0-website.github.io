@@ -1,1 +1,11 @@
+title: Our Savior Website Upgrade 
+description: An upgrade to Our Savior Website 
+show_downloads: false
 theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: https://github.com/oshi0-website/oshi0-website
+social:
+  type: Organization
+gems:
+  - jekyll-mentions
