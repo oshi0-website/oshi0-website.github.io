@@ -8,6 +8,8 @@
 
 # OVERVIEW
 The main goal is to create a new website for Our Savior Lutheran Church of Hawaii. 
+<br/>
+Link to the [GitHub Repository](https://github.com/oshi0-website/oshi0-website). 
 
 # MILESTONES
 * Week 1 <br/>
