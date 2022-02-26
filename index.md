@@ -7,9 +7,11 @@
 * [TEAM MEMBERS](#team-members)
 
 # OVERVIEW
+The main goal is to create a new website for Our Savior Lutheran Church of Hawaii. 
 
 # MILESTONES
-
+* Week 1 <br/>
+During the first week we created a mock design using simple HTML and CSS.
 # TEAM MEMBERS
 ***
 * [Matthew Kirts](https://mkirts.github.io/)
