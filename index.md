@@ -30,9 +30,7 @@ Here is a brief outline of  what was accomplished within the first week.
 - Shin: Prototyping concealable menu
 - Matt: Video Background
 - All: Continue mockups on other pages (whether static or dynamic)
-- Meeting notes from 2/27/2021:
-  - Continue on with normal tasks, attempt to have a prototype by Wednesday or Friday
-  - Next Metting: 5 March 2022
+
 
 # TEAM MEMBERS
 ***
