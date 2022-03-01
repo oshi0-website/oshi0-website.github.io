@@ -37,7 +37,7 @@ Here is a brief outline of  what was accomplished within the first week.
 * [Matthew Kirts](https://mkirts.github.io/)
   * Contact: mkirts@hawaii.edu
 
-* [Shinya Saito](https://saitoshin45.web.fc2.com/index.html)
+* [Shinya Saito](https://saitoshi.github.io/)
   * B.S. in Computer Science and Mathematics 
   * Contact: <u><a href = "mailto:saitoshin2145@gmail.com">saitoshin2145@gmail.com</a></u>
   * 
